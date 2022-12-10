@@ -58,6 +58,16 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define LED_ONE_SHOT_Pin GPIO_PIN_1
+#define LED_ONE_SHOT_GPIO_Port GPIOA
+#define LED_0_5_Pin GPIO_PIN_2
+#define LED_0_5_GPIO_Port GPIOA
+#define LED_1_Pin GPIO_PIN_3
+#define LED_1_GPIO_Port GPIOA
+#define LED_1_5_Pin GPIO_PIN_4
+#define LED_1_5_GPIO_Port GPIOA
+#define LED_2_Pin GPIO_PIN_5
+#define LED_2_GPIO_Port GPIOA
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
